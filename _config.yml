@@ -5,7 +5,7 @@
 # Site
 title: InterSociety Digital Cinema Forum (ISDCF)
 subtitle: ''
-description: 'ISDCF – Intersociety Digital Cinema Forum meets about once a month to discuss technical and deployment issues for Theatrical Digital Cinema deployment. Digital Cinema Technology is our wheelhouse. We discuss DCP (Digital Cinema Package), KDM (Key Distribution Message), FLM (Facility List Management), TDL (Trusted Device List), Formatting of distribution hard disc drives, FIPS-140, DCI (Digital Cinema Initiatives), Upgrade scheduling, 3D luminance, subtitles, captions, closed captions, SMPTE specifications for digital cinema / audio and a large number of other TLA and FLA’s (three letter acronyms and four letter acronyms). About 40 people participate monthly, either in person or via conference call. Any questions please email Jerry Pierce, Chairman at info@isdcf.com.'
+description: 'The Inter-Society Digital Cinema Forum (ISDCF) discusses technical and deployment issues for theatrical digital cinema deployment.'
 language: en
 
 # URL
@@ -14,8 +14,8 @@ url: https://isdcf.github.io/new-site/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
