@@ -12,8 +12,8 @@
     "version": "8.1.2"
   },
   "dependencies": {
-    "cldr-core": "^36.0.0",
-    "cldr-localenames-modern": "^36.0.0",
+    "cldr-core": "^48.2.0",
+    "cldr-localenames-full": "^48.2.0",
     "hexo": "^8.0.0",
     "hexo-generator-alias": "^1.0.0",
     "hexo-generator-archive": "^2.0.0",
@@ -26,9 +26,9 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-util": "^4.0.0",
-    "language-tags": "^1.0.5",
-    "markdown-it": "^14.3.0",
-    "markdown-it-attrs": "^4.2.0",
-    "markdown-it-footnote": "^3.0.2"
+    "language-tags": "^2.1.0",
+    "markdown-it": "^15.0.0",
+    "markdown-it-attrs": "^5.0.1",
+    "markdown-it-footnote": "^4.0.0"
   }
 }
