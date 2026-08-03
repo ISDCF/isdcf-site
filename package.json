@@ -12,7 +12,7 @@
     "version": "8.1.2"
   },
   "dependencies": {
-    "cldr-core": "^48.2.0",
+    "cldr-core": "^45.0.0",
     "cldr-localenames-modern": "^45.0.0",
     "hexo": "^8.0.0",
     "hexo-generator-alias": "^1.0.0",
