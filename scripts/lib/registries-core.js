@@ -19,7 +19,6 @@ const ROOT_DIR = path.join(__dirname, '..', '..');
 const CONTENT_DIR = path.join(ROOT_DIR, 'registries', 'content');
 const IMG_DIR = path.join(ROOT_DIR, 'registries', 'img');
 const REGISTRIES_DATA_DIR = path.join(ROOT_DIR, 'external', 'registries', 'src', 'main', 'data');
-const LANGUAGE_UTILS_PATH = path.join(ROOT_DIR, 'external', 'registries', 'src', 'main', 'scripts', 'language-utilities.js');
 
 /*
  * The page manifest, ported (order, titles, menu levels, page orders) from
@@ -170,10 +169,10 @@ function transformRatings(data) {
   return data;
 }
 
-// languages: resolve CLDR display names via external/registries'
-// language-utilities.js (reused as-is, not reimplemented).
+// languages: resolve CLDR display names via ./language-utilities.js (a local
+// port of external/registries' script of the same name).
 function transformLanguages(data) {
-  const utils = require(LANGUAGE_UTILS_PATH);
+  const utils = require('./language-utilities');
   data.forEach(function (entry) {
     try {
       const ptag = utils.parseLanguageTag(entry.rfc5646Tag);
