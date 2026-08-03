@@ -18,4 +18,6 @@ The Inter-Society Digital Cinema Forum (ISDCF) discusses technical and deploymen
 
 ISDCF holds meetings about every 6 weeks either hybrid or remote-only. Meetings are open to members and guests in good standing.
 
+The ISDCF is a project of [Inter-Society](https://www.intersociety.org/).
+
 Questions? Email [info@isdcf.com](mailto:info@isdcf.com).
