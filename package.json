@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "cldr-core": "^36.0.0",
-    "cldr-localenames-modern": "^36.0.0",
+    "cldr-localenames-modern": "^45.0.0",
     "hexo": "^8.0.0",
     "hexo-generator-alias": "^1.0.0",
     "hexo-generator-archive": "^2.0.0",
