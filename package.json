@@ -27,7 +27,7 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-util": "^4.0.0",
     "language-tags": "^1.0.5",
-    "markdown-it": "^14.3.0",
+    "markdown-it": "^15.0.0",
     "markdown-it-attrs": "^4.2.0",
     "markdown-it-footnote": "^3.0.2"
   }
