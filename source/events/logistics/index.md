@@ -2,6 +2,7 @@
 title: Meeting Logistics
 layout: page
 alias: logistics/index.html
+toc: true
 ---
 
 ## Directions to the Pickford Center / Academy on Vine in Hollywood
@@ -34,9 +35,17 @@ We have a new way to get into the ITC and doesn't require parking validation. IT
 
 ## Directions to Harman in Northridge
 
+### Parking
+
 ![Harman EC Parking Update](/events/logistics/HARMAN-EC-Parking-update.png)
 
-![Harman JBL Directions](/events/logistics/HARMAN_JBL-Directions-page2-1536x864.jpg)
+### Theater Entrance
+
+![Harman Theater Entrance](/events/logistics/harman_theatre_entrance.jpg)
+
+### Experience Entrance
+
+![Harman Experience Entrance](/events/logistics/HARMAN_JBL-Directions-page2-1536x864.jpg)
 
 ## Directions to Universal Conference Room
 
