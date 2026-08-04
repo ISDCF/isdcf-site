@@ -11,3 +11,5 @@ The new site is entirely maintained on [our GitHub repo](https://github.com/ISDC
 We have not touched the naming convention part of the website, which we will work on as the next step. We have made every effort to preserve all critical information, but something might have fallen between the track, so do not hesitate to file an issue on [our GitHub repo](https://github.com/ISDCF/new-site) or [email us](mailto:info@isdcf.com).
 
 A dedicated [Inter-Society website](https://www.intersociety.org) has also been created.
+
+Our old website will continue to live at https://old.isdcf.com for a little while longer.
