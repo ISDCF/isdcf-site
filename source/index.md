@@ -2,6 +2,7 @@
 title: Welcome to ISDCF
 layout: welcome
 wide: true
+alias: /site/
 links:
   - title: Digital Cinema Naming Convention
     url: /registry/dcncintro/
