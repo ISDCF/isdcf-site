@@ -8,9 +8,11 @@ Raise issues and suggestions at https://github.com/ISDCF/new-site/issues.
 
 (c) Inter-Society for the Enhancement of Cinema Presentation, Inc. All rights reserved.
 
-## Building
+## Architecture
 
-The website is built as a static website using the [Hexo framework](https://hexo.io/).
+The website is built as a static website using the [Hexo framework](https://hexo.io/). It uses a [theme](https://github.com/ISDCF/isdcf-hexo-theme) shared with other [Inter-society](https://www.intersociety.org) projects.
+
+## Quick start
 
 Prerequisites to test the website locally:
 * [git](https://git-scm.com/)
