@@ -19,7 +19,7 @@ layout: page
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/harkins.png" alt="Harkins logo"></div><div class="logo-grid__name">Harkins</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/marcus.png" alt="Marcus Theatres logo"></div><div class="logo-grid__name">Marcus Theatres</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/mps.png" alt="Motion Picture Solutions logo"></div><div class="logo-grid__name">Motion Picture Solutions</div></div>
-<div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/nec.svg" alt="NEC Display Solutions of America logo"></div><div class="logo-grid__name">NEC Display Solutions of America</div></div>
+<div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/sharp.jpg" alt="Sharp logo"></div><div class="logo-grid__name">Sharp</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/paramount.png" alt="Paramount Studios logo"></div><div class="logo-grid__name">Paramount Studios</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/pixelogic.png" alt="Pixelogic - Digital Cinema Services logo"></div><div class="logo-grid__name">Pixelogic - Digital Cinema Services</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/qube.png" alt="Qube Cinema, Inc. logo"></div><div class="logo-grid__name">Qube Cinema, Inc.</div></div>
