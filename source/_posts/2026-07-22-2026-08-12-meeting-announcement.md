@@ -5,7 +5,7 @@ tags: meeting
 sticky: 1
 ---
 
-Wednesday Aug 12, 2026 10:00am at {% url_for 'Harman (Northridge, CA)' 'source/events/logistics' %}.
+Wednesday Aug 12, 2026 10:00am at {% url_for 'Harman (Northridge, CA)' 'events/logistics' %}.
 
 _We have been asked to use the theater door this time._
 
