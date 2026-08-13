@@ -15,7 +15,7 @@ This became SMPTE RDD52 based on ISDCF Test Content Bv2.1. It is now freely avai
 
 ### ISDCF Document 1 – Digital Cinema Content Naming Convention
 
-ISDCF maintains the recommendation for naming DCP files. The current version is posted on-line at: [http://isdcf.com/dcnc](http://isdcf.com/dcnc)
+ISDCF maintains the recommendation for naming DCP files. The current version is posted on-line at: [https://www.isdcf.com/registry/dcncintro/](https://www.isdcf.com/registry/dcncintro/)
 
 ### ISDCF Document 3 – Hard Disc Drive formats
 
@@ -87,7 +87,7 @@ Latest pdf version: [https://files.isdcf.com/papers/ISDCF-Doc9-Closed-Caption-Au
 ### ISDCF Document 10 – Subtitles and Captions in Digital Cinema
 
 Subtitles and Captions in Digital Cinema. Digital cinema provides for subtitles and captions, both on the main screen and off. This paper provides a brief description of these capabilities.
-Latest pdf version: [https://files.isdcf.com/papers/ISDCF-Doc10-Subtitles-and-Captions-in Digital-Cinema-20160211.pdf](https://files.isdcf.com/papers/ISDCF-Doc10-Subtitles-and-Captions-in Digital-Cinema-20160211.pdf)
+Latest pdf version: [https://files.isdcf.com/papers/ISDCF-Doc10-Subtitles-and-Captions-in Digital-Cinema-20160211.pdf](https://files.isdcf.com/papers/ISDCF-Doc10-Subtitles-and-Captions-in%20Digital-Cinema-20160211.pdf)
 
 Harold Hallikainen has created a document for recommended practices for SMPTE ST430-10. For convenience is it provided here. This is not an official ISDCF document, but may help authoring services in understanding how to prepare content.
 Latest pdf version: [https://files.isdcf.com/papers/ISDCF-SMPTE-ST-430-10-Implementation-Notes20180308.pdf](https://files.isdcf.com/papers/ISDCF-SMPTE-ST-430-10-Implementation-Notes20180308.pdf)
@@ -127,11 +127,11 @@ There are now many projector products that have passed the DCI compliance test p
 
 ### NIST/FIPS-140-2 Update (June 21, 2010 update)
 
-There has been considerable conversation at ISDCF over the NIST update to FIPS-140. The question included the DCI-Specification, the Compliance Test Plan, and SMPTE documents referring to a soon-to-not-exist (or recently changed) standard. Posted at the NIST site are draft NIST publications ([http://csrc.nist.gov/publications/PubsDrafts.html#800-131](http://csrc.nist.gov/publications/PubsDrafts.html#800-131)) and in particular are public comments ([http://csrc.nist.gov/publications/drafts/800-131/comments-received-inital-public-draft_sp800-131_may2010.pdf](http://csrc.nist.gov/publications/drafts/800-131/comments-received-inital-public-draft_sp800-131_may2010.pdf)) of most interest are DCI comments that were submitted – go to [http://isdcf.com/papers/DCI-NIST-CommentsForFIPS.pdf](http://isdcf.com/papers/DCI-NIST-CommentsForFIPS.pdf) for the DCI comments.
+There has been considerable conversation at ISDCF over the NIST update to FIPS-140. The question included the DCI-Specification, the Compliance Test Plan, and SMPTE documents referring to a soon-to-not-exist (or recently changed) standard. Posted at the NIST site are draft NIST publications ([http://csrc.nist.gov/publications/PubsDrafts.html#800-131](http://csrc.nist.gov/publications/PubsDrafts.html#800-131)) and in particular are public comments ([http://csrc.nist.gov/publications/drafts/800-131/comments-received-inital-public-draft_sp800-131_may2010.pdf](http://csrc.nist.gov/publications/drafts/800-131/comments-received-inital-public-draft_sp800-131_may2010.pdf)) of most interest are DCI comments that were submitted – go to [https://files.isdcf.com/papers/DCI-NIST-CommentsForFIPS.pdf](https://files.isdcf.com/papers/DCI-NIST-CommentsForFIPS.pdf) for the DCI comments.
 
 ### Screen Luminance Measurement (updated June 2010)
 
-How to measure the screen brightness of a 3D screen came up in a discussion in the January 2010 time frame. A discussion thread has been underway with no conclusions, but some good input. Peter Wilson put the thread together into a .pdf document. It's posted at [https://files.isdcf.com/papers/ScreenBrightnessMeasurementv1_0.pdf](https://files.isdcf.com/papers/ScreenBrightnessMeasurementv1_0.pdf)
+How to measure the screen brightness of a 3D screen came up in a discussion in the January 2010 time frame. A discussion thread has been underway with no conclusions, but some good input. Peter Wilson put the thread together into a .pdf document. It's posted at [https://files.isdcf.com/papers/aa%20Old%20Versions/ScreenBrightnessMeasurementv1_0.pdf](https://files.isdcf.com/papers/aa%20Old%20Versions/ScreenBrightnessMeasurementv1_0.pdf)
 
 ### NIST Security Standards (Subject to change)
 
@@ -162,4 +162,4 @@ Digital cinema security, per the DCI specification, relies on a series of NIST s
 
 #### FIPS 140-3
 
-[FIPS-140-3 DRAFT Security Requirements for Cryptographic Modules (Revised Draft December 11, 2009)](http://csrc.nist.gov/publications/drafts/fips140-3/revised-draft-fips140-3_PDF-zip_document-annexA-to-annexG.zip%20target=)
+[FIPS-140-3 DRAFT Security Requirements for Cryptographic Modules (Revised Draft December 11, 2009)](http://csrc.nist.gov/publications/drafts/fips140-3/revised-draft-fips140-3_PDF-zip_document-annexA-to-annexG.zip)
