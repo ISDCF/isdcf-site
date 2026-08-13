@@ -105,7 +105,7 @@ Latest pdf version: [https://files.isdcf.com/papers/ISDCF-Doc14-Digital-Delivery
 
 ### DCI Specification
 
-[https://www.dcimovies.com/specification/index.html](https://www.dcimovies.com/specification/index.html)
+[https://www.dcimovies.com/dci-specification](https://www.dcimovies.com/dci-specification)
 
 ## The Following are documents that are out of date and not approved and not being worked on at this time
 
@@ -123,7 +123,7 @@ Latest pdf version: [http://files.isdcf.com/papers/ISDCF-HighFrameRate-DCP.pdf](
 
 ### DCI Compliance Update
 
-There are now many projector products that have passed the DCI compliance test plan. These are posted to the DCI website: [https://www.dcimovies.com/compliance/](https://www.dcimovies.com/compliance/)
+There are now many projector products that have passed the DCI compliance test plan. These are posted to the DCI website: [https://www.dcimovies.com/compliant-equipment](https://www.dcimovies.com/compliant-equipment)
 
 ### NIST/FIPS-140-2 Update (June 21, 2010 update)
 
@@ -151,15 +151,8 @@ Digital cinema security, per the DCI specification, relies on a series of NIST s
 
 #### FIPS 140-2
 
-[FIPS 140-2 Security Requirements for Cryptographic Modules](http://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
-[FIPS 140-2 Annex A (January 27, 2010)](http://csrc.nist.gov/publications/fips/fips140-2/fips1402annexa.pdf)
-[FIPS 140-2 Annex A (December 18, 2007)](http://www.infogard.com/ig.nsf/html/WEBB7BQVNE/$FILE/fips1402annexa.pdf)
-[FIPS 140-2 Annex A (May 19, 2005)](http://www.enpointe.com/security/pdf/fips1402annexa.pdf)
-[FIPS 140-2 Annex B (June 14, 2007)](http://csrc.nist.gov/publications/fips/fips140-2/fips1402annexb.pdf)
-[FIPS 140-2 Annex C (July 21, 2009)](http://csrc.nist.gov/publications/fips/fips140-2/fips1402annexc.pdf)
-[FIPS 140-2 Annex D (October 8, 2009)](http://csrc.nist.gov/publications/fips/fips140-2/fips1402annexd.pdf)
-[Implementation Guide for FIPS 140-2 (January 27, 2010)](http://csrc.nist.gov/groups/STM/cmvp/documents/fips140-2/FIPS1402IG.pdf)
+[FIPS 140-2 Security Requirements for Cryptographic Modules](https://csrc.nist.gov/pubs/fips/140-2/upd2/final)
 
 #### FIPS 140-3
 
-[FIPS-140-3 DRAFT Security Requirements for Cryptographic Modules (Revised Draft December 11, 2009)](http://csrc.nist.gov/publications/drafts/fips140-3/revised-draft-fips140-3_PDF-zip_document-annexA-to-annexG.zip)
+[FIPS-140-3 Security Requirements for Cryptographic Modules](https://csrc.nist.gov/pubs/fips/140-3/final)
