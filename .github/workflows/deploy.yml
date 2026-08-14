@@ -25,6 +25,9 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Update submodule to latest
+        run: git submodule update --remote --merge external/registries
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
