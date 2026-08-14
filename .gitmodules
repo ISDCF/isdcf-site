@@ -1,7 +1,7 @@
 [submodule "external/registries"]
 	path = external/registries
 	url = https://github.com/ISDCF/registries.git
-	branch = main
+	branch = master
 [submodule "themes/isdcf"]
 	path = themes/isdcf
 	url = https://github.com/ISDCF/isdcf-hexo-theme.git
