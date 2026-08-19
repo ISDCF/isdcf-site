@@ -13,7 +13,7 @@ We are transitioning to the use of SMPTE Standard CPL Metadata ([SMPTE ST 429-16
 
 The Digital Cinema Naming Convention is evolving with the addition of new terms and modifications to existing terms. ISDCF is the arbiter of modifications to the convention. In general, requests are made to <digitalcinemanaming@isdcf.com> and are reviewed at the next ISDCF meeting. No significant modification is made without discussion at ISDCF. The official version is always this on-line version.
 
-URIs and Universal Labels that are found in Digital Cinema Packages in general, and in CPL Metadata in particular, but are not otherwise specified by SMPTE engineering are described at <https://isdcf.com/register/>
+URIs and Universal Labels that are found in Digital Cinema Packages in general, and in CPL Metadata in particular, but are not otherwise specified by SMPTE engineering are described at <https://www.isdcf.com/registry/registryintro/>
 
 Do you want to SEARCH the site? Use [Google Search](https://www.google.com/) `site:http://isdcf.com/dcnc/: (search term)`.
 

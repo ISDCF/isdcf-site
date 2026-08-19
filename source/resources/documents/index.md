@@ -15,7 +15,7 @@ This became SMPTE RDD52 based on ISDCF Test Content Bv2.1. It is now freely avai
 
 ### ISDCF Document 1 – Digital Cinema Content Naming Convention
 
-ISDCF maintains the recommendation for naming DCP files. The current version is posted on-line at: [https://www.isdcf.com/registry/dcncintro/](https://www.isdcf.com/registry/dcncintro/)
+ISDCF maintains the recommendation for naming DCP files. The current version is posted on-line at: [https://www.isdcf.com/registry/illustratedguide/](https://www.isdcf.com/registry/illustratedguide/)
 
 ### ISDCF Document 3 – Hard Disc Drive formats
 
