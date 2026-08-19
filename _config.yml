@@ -66,6 +66,10 @@ default_category: uncategorized
 category_map:
 tag_map:
 
+# Preserves legacy links from https://registry-page.isdcf.com/
+alias:
+  'registry/index.html': '/registry/illustratedguide/'
+
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
