@@ -5,7 +5,7 @@ wide: true
 alias: /site/
 links:
   - title: Digital Cinema Naming Convention
-    url: /registry/dcncintro/
+    url: /registry/illustratedguide/
     description: How to name (and decode) Digital Cinema Packages, plus the metadata and terminology registries.
   - title: Technical Documents
     url: /resources/documents/
