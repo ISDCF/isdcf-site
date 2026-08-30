@@ -2,7 +2,6 @@
 title: "Next meeting: August 12 at Harman (Northridge, CA)"
 date: 2026-07-22 13:26:57
 tags: meeting
-sticky: 1
 ---
 
 Wednesday Aug 12, 2026 10:00am at {% url_for 'Harman (Northridge, CA)' 'events/logistics' %}.
