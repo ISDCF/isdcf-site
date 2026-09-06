@@ -36,12 +36,14 @@
             <% } else if (cm.metaType === 'Extension Present') { %>
               &lt;cpl-meta:ExtensionMetadata scope="<code><%= cm.extScope %></code>"&gt;<br>
               &nbsp;&nbsp;&lt;cpl-meta:Name&gt;<code><%= cm.extName %></code>&lt;/cpl-meta:Name&gt;<br>
+              <% if (cm.extpropName) { %>
               &nbsp;&nbsp;&lt;cpl-meta:PropertyList&gt;<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&lt;cpl-meta:Property&gt;<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;cpl-meta:Name&gt;<code><%= cm.extpropName %></code>&lt;/cpl-meta:Name&gt;<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;cpl-meta:Value&gt;<code><%= cm.extpropValue %></code>&lt;/cpl-meta:Value&gt;<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&lt;/cpl-meta:Property&gt;<br>
               &nbsp;&nbsp;&lt;/cpl-meta:PropertyList&gt;<br>
+              <% } %>
               &lt;/cpl-meta:ExtensionMetadata&gt;
             <% } %>
           </code>
