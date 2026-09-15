@@ -100,6 +100,7 @@ Confirm the headsets for Hearing impaired/Visually impaired working
 Confirm the closed caption device working
 Play SMPTE_TST-B1P
 
+<!-- markdownlint-disable-next-line MD033 -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkGmliZL1GE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You should see the subtitles appearing in upper right corner INSIDE THE GREEN BOX and on the closed caption devices.
@@ -117,6 +118,7 @@ Confirm the headsets for Hearing impaired/Visually impaired working
 Confirm the closed caption device working
 Play SMPTE_TST-B2P
 
+<!-- markdownlint-disable-next-line MD033 -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ogyqAXC-vZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You should see the subtitles appearing in upper right corner INSIDE THE GREEN BOX and on the closed caption devices
@@ -133,4 +135,5 @@ The checklist is [http://files.isdcf.com/SMPTE-DCP-Content/SMPTE-DCP-checklist.p
 
 ![](/resources/test-content/archived/shape-pic-1.png)
 
+<!-- markdownlint-disable-next-line MD033 -->
 <p style="text-align: center;">Any questions? Email <a href="mailto:info@isdcf.com">info@isdcf.com</a></p>

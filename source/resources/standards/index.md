@@ -20,4 +20,5 @@ Use the search field in the upper right of the table – for document titles (pa
 - To find docs with current status "amended", search for "Status: Amended" or "Current Status: Amended".
 - To find docs with status label "amended", use the filter pane for Status. In many cases, such as superseded or withdrawn docs, the searched label may not be the Current Status (located in the Document Details). Labels provide document status "history".
 
+<!-- markdownlint-disable-next-line MD033 -->
 <iframe height="800" src="https://msrbot.io/" width="100%"></iframe>
