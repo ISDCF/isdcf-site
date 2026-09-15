@@ -27,7 +27,7 @@ Many thanks to all of our sponsors that make the work of ISDCF possible!
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/pixelogic.png" alt="Pixelogic - Digital Cinema Services logo"></div><div class="logo-grid__name">Pixelogic - Digital Cinema Services</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/qube.png" alt="Qube Cinema, Inc. logo"></div><div class="logo-grid__name">Qube Cinema, Inc.</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/regal.svg" alt="Regal Entertainment logo"></div><div class="logo-grid__name">Regal Entertainment</div></div>
-<div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/Rentrak_Tealgradient.jpg" alt="Rentrak logo"></div><div class="logo-grid__name">Rentrack</div></div>
+<div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/Rentrak_Tealgradient.jpg" alt="Rentrak logo"></div><div class="logo-grid__name">Rentrak</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/sharp.jpg" alt="Sharp logo"></div><div class="logo-grid__name">Sharp</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/timewaying.png" alt="Shenzhen Time Waying Technology Co., Ltd. logo"></div><div class="logo-grid__name">Shenzhen Time Waying Technology Co., Ltd.</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/sony.jpg" alt="Sony Pictures logo"></div><div class="logo-grid__name">Sony Pictures</div></div>
