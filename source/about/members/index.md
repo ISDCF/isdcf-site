@@ -3,7 +3,11 @@ title: Members
 layout: page
 ---
 
-## Sponsoring Companies
+Many thanks to all of our sponsors that make the work of ISDCF possible!
+
+{% url_for 'Become a member today!' '/about/join/' %}
+
+## Major sponsors
 
 <!-- markdownlint-disable MD033 -->
 <div class="logo-grid">
@@ -34,4 +38,23 @@ layout: page
 </div>
 <!-- markdownlint-enable MD033 -->
 
-{% url_for 'Become a member today!' '/about/join/' %}
+## Individual sponsors
+
+| Name | Organization |
+| --- | --- |
+| Aram Lecis | |
+| Arran Corbett | FooEngine |
+| Brian Vessa | |
+| Geoff Burdick | |
+| Harold Hallikainen | |
+| James Gardiner | |
+| Jim Helman | |
+| Mark Collins | Collins Theatre Systems LLC |
+| Martina Berger | |
+| Nick Davey | |
+| Rolv Gjestland | |
+| Susie Beiersdorf | |
+| Thomas Landfried | cinetec Landfried GmbH |
+| Tom Tomlinson | Nice Shoes LLC |
+
+_NOTE:_ Some individual sponsors have declined to be listed.
