@@ -1,13 +1,10 @@
 ---
-title: Audio Test
+title: ISDCF Audio Test Content
 layout: page
 toc: true
 toc_depth: 3
 alias: audiotest/index.html
 ---
-
-
-# ISDCF Audio Test Content
 
 ## Introduction
 
