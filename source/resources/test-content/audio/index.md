@@ -7,7 +7,9 @@ alias: audiotest/index.html
 ---
 
 
-## ISDCF Audio Test Content
+# ISDCF Audio Test Content
+
+## Introduction
 
 ISDCF has created a Digital Cinema Package of 7.1 audio test content to help understand the impact of non-perf screens (LED) on audio playback. The intent was for content to reveal known concerns for a non-perf screen. However, it can be used to test any cinema sound system.
 
@@ -27,6 +29,8 @@ Below is a timeline of the test content with expectations.
 **PRIOR TO RUNNING THE TEST, GO TO 19MIN 43 SEC (LAST SEGMENT). THIS HAS VOICE SLATES AND SMPTE ST 2095-1 PINK NOISE FOR EACH CHANNEL. CHECK THAT THE SYSTEM IS CORRECTLY PLAYING BACK EACH CHANNEL AND IS CORRECTLY CALIBRATED.**
 
 The content has 16 segments. Each segment contains specific content to help analyze the sound system. Below are some comments on what to listen for and what others have seen for other playback environments.
+
+## Tests
 
 ### 0m 0sec – Introduction
 
