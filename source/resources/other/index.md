@@ -67,3 +67,11 @@ The DCP Inside documentation is the result of two and a half years of work (with
 Here is the complete table of contents of all the topics covered in DCP-Inside. The different chapters can be intertwined with each other. You will find a quick and graphic summary just below. Do not hesitate to browse the entire table of contents to discover chapters not mentioned in the graphic summary.
 
 [https://sherpadown.net/dcp-inside/TOC](https://sherpadown.net/dcp-inside/TOC)
+
+---
+
+##### PCA-100 macOS Software
+
+[PCA-100 macOS Software](https://github.com/0x0ndra/pca100) is a free and open source (MIT) macOS application for the USL PCA-100 photometer, whose original software runs on Windows only. It reads screen luminance, CIE 1931 x/y chromaticity and correlated color temperature from the instrument's Ocean Optics USB2000+ spectrometer and evaluates the readings against DCI and SMPTE RP 431-2.
+
+Readings from xenon and laser phosphor projectors have been verified side by side against the original USL software; on projectors with RGB laser primaries the per-primary chromaticity should be treated as indicative, a hardware limitation shared with the original software. The validation protocol and known deviations are documented in the repository, along with [notes on the tool's limits for DCI work](https://xctech.cz/en/nastroje/usl-pca-100/).
