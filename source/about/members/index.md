@@ -23,6 +23,7 @@ Many thanks to all of our sponsors that make the work of ISDCF possible!
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/harkins.png" alt="Harkins logo"></div><div class="logo-grid__name">Harkins</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/marcus.png" alt="Marcus Theatres logo"></div><div class="logo-grid__name">Marcus Theatres</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/mps.png" alt="Motion Picture Solutions logo"></div><div class="logo-grid__name">Motion Picture Solutions</div></div>
+<div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/nbcuniversal.png" alt="NBCUniversal logo"></div><div class="logo-grid__name">NBCUniversal</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/paramount.png" alt="Paramount Studios logo"></div><div class="logo-grid__name">Paramount Studios</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/pixelogic.png" alt="Pixelogic - Digital Cinema Services logo"></div><div class="logo-grid__name">Pixelogic - Digital Cinema Services</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/qube.png" alt="Qube Cinema, Inc. logo"></div><div class="logo-grid__name">Qube Cinema, Inc.</div></div>
@@ -31,7 +32,6 @@ Many thanks to all of our sponsors that make the work of ISDCF possible!
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/sharp.jpg" alt="Sharp logo"></div><div class="logo-grid__name">Sharp</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/timewaying.png" alt="Shenzhen Time Waying Technology Co., Ltd. logo"></div><div class="logo-grid__name">Shenzhen Time Waying Technology Co., Ltd.</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/sony.jpg" alt="Sony Pictures logo"></div><div class="logo-grid__name">Sony Pictures</div></div>
-<div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/fithian.png" alt="The Fithian Group logo"></div><div class="logo-grid__name">The Fithian Group</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/village.png" alt="Village Cinemas logo"></div><div class="logo-grid__name">Village Cinemas</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/disney.jpg" alt="Walt Disney Studios Motion Picture Distribution logo"></div><div class="logo-grid__name">Walt Disney Studios Motion Picture Distribution</div></div>
 <div class="logo-grid__item"><div class="logo-grid__logo"><img src="./logo/warnerbros.png" alt="Warner Bros. logo"></div><div class="logo-grid__name">Warner Bros.</div></div>
