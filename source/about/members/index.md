@@ -41,8 +41,10 @@ Many thanks to all of our sponsors that make the work of ISDCF possible!
 
 | Name | Organization |
 | --- | --- |
+| Andrew Takigawa | HELLO! MOVIE Inc. |
 | Aram Lecis | |
 | Arran Corbett | FooEngine |
+| Aury G. Friedman | Fastest Dog Services, Inc. |
 | Brian Vessa | |
 | Geoff Burdick | |
 | Harold Hallikainen | |
@@ -55,5 +57,7 @@ Many thanks to all of our sponsors that make the work of ISDCF possible!
 | Susie Beiersdorf | |
 | Thomas Landfried | cinetec Landfried GmbH |
 | Tom Tomlinson | Nice Shoes LLC |
+| William Hogan | |
+| Yoshi Gonno | |
 
 _NOTE:_ Some individual sponsors have declined to be listed.
