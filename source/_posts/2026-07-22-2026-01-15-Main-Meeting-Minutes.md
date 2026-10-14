@@ -1,6 +1,6 @@
 ---
 title: 'POSTED: January 15, 2026 Main Meeting Minutes'
-date: 2026-07-22 19:31:51
+date: 2026-01-15
 tags: minutes
 ---
 
