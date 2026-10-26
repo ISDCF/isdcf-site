@@ -14,15 +14,15 @@
 
 “Pitch Perfect 3”. Feature Version 7 Dolby Vision. Flat. English Language with Closed Captions. US Rated PG13/Canada. Atmos Audio (with 7.1 backup audio) with Assisted Listening & Audio Description tracks. 2K Resolution. Universal Pictures. Packaged on November 3, 2017, at Dolby LA. SMPTE Standard. Original Version package type.
 
-`BadTimesElRoyale_FTR-A_S_EN-EN-CCAP_OV_71-HI-VI_2K_TCF_20181003_TCF_SMPTE `
+`BadTimesElRoyale_FTR-A_S_EN-EN-CCAP_OV_71-HI-VI_2K_TCF_20181003_TCF_SMPTE`
 
-`Ferdinand_FTR-3D-4FL_S_EN-qbp-QBP-CCAP_BR_ATMOS-VI-SL-DBOX_2K_TCF_20171211_DTB_SMPTE_OV `
+`Ferdinand_FTR-3D-4FL_S_EN-qbp-QBP-CCAP_BR_ATMOS-VI-SL-DBOX_2K_TCF_20171211_DTB_SMPTE_OV`
 
-`Logan_FTR-M_S_EN-de_DE_ATMOS-DBOX_2K_TCF_20171213_DTU_SMPTE_OV `
+`Logan_FTR-M_S_EN-de_DE_ATMOS-DBOX_2K_TCF_20171213_DTU_SMPTE_OV`
 
-`TheHateUGive_FTR-B_S_EN-EN-CCAP_OV_71-HI-VI_2K_TCF_20180924_TCF_SMPTE `
+`TheHateUGive_FTR-B_S_EN-EN-CCAP_OV_71-HI-VI_2K_TCF_20180924_TCF_SMPTE`
 
-`Cars3_FTR-25-3D-14fl_S_EN-EN-CCAP_US-G_71-HI-VI-Atmos-Dbox_2K_DI_20170605_DTB_SMPTE-3D_OV`
+`Cars3_FTR-25-3D-14fl_S_EN-EN-CCAP_US-G_71-HI-VI-Atmos-Dbox_2K_DI_20170605_DTB_SMPTE_OV`
 
 `SWLastJedi_FTR-26-2D-DVis_S_EN-ar_AE_71-Atmos-Dbox_2K_DI_20171120_DTB_SMPTE_OV`
 
